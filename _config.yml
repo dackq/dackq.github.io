@@ -1,17 +1,18 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# markdown:         redcarpet
+# highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+# permalink:        pretty
+# relative_permalinks: true
 
 # Setup
 title:            Dakota Reed
-tagline:          'My bkig'
+tagline:          'My blog'
 description:      'My blog'
-url:              http://hyde.getpoole.com
+url:              http://blog.dakotalreed.com
 baseurl:          /
+disqus: blog-dakotalreed.com
 
 author:
   name:           'Dakota Reed'
@@ -25,4 +26,4 @@ version:          2.1.0
 github:
   repo:           https://github.com/dackq
 
-disqus: blog-dakotalreed.com
+plugins: [jekyll-paginate]
