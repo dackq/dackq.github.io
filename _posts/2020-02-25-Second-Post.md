@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: second post
+title: Second post
 ---
 
 This is the second post
